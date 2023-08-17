@@ -3,3 +3,21 @@
     height: 500px;
     width: 100%;
 }
+
+.box1 {
+    background-color: red;
+    height: 200px;
+    width: 33%;
+}
+
+.box2 {
+    background-color: red;
+    height: 200px;
+    width: 33%;
+}
+
+.box3 {
+    background-color: red;
+    height: 200px;
+    width: 33%;
+}
